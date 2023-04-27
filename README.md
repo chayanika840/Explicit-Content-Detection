@@ -7,3 +7,15 @@ Then we also did a comparative study on 5 different optimizers namely: ADAMAX, A
 
 Followed by this we created a local host system with an amazing design using HTML, CSS and Javascript and got the model into place and utilization of codes using FLASK (model.h5 file). We created an environment where user can check if their images are safe or unsafe for work. If it is unsafe it will not be shown on screen and turned as censored, otherwise if its safe it is shown on the screen.
 
+->Installation
+Clone the repository: git clone https://github.com/chayanika840/Safe-for-Work-Predictor.git
+Install the required Python packages: pip install -r requirements.txt
+
+->Contributing
+Contributions to this project are welcome. To contribute, please follow these steps:
+
+Fork the repository
+Create a new branch: git checkout -b new-feature
+Make your changes and commit them: git commit -am 'Add new feature'
+Push to the branch: git push origin new-feature
+Submit a pull request
